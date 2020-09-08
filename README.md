@@ -8,7 +8,7 @@ Simple themed raster graphics editor made with Python3 and Pygame
 
 ### Purpose
 2018-2019 midterm project for ICS3U @ Vincent Massey S.S <br>
-Disclamer: I created this project before I learned about modular programming
+<strong>Disclamer: I created this project before I learned about modular programming</strong>
 
 ### Features
 - Color wheel
